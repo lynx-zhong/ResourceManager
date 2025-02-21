@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626a565817c145a39fa0b051b680fd37, type: 3}
+  m_Name: AssetBundleCollectorSetting
+  m_EditorClassIdentifier: 
+  ShowPackage: 0
+  Packages:
+  - PackageName: DefulatName11
+    PackageDesc: 
+    EnableAddressable: 1
+    IncludeAssetGUID: 0
+    AutoCollectShaders: 1
+    Groups:
+    - GroupName: DefaultGroup
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
+    - GroupName: DefaultGroup_3
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
+    - GroupName: DefaultGroup_4
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
+    - GroupName: DefaultGroup_5
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
+    - GroupName: DefaultGroup_4
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
+    - GroupName: DefaultGroup_5
+      GroupDesc: 
+      GroupAssetTags: 
+      Enabled: 1
+      Collectors: []
